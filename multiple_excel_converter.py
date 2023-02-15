@@ -7,7 +7,6 @@ import os
 import pprint
 import PyPDF2
 import shutil
-import time
 import win32com.client
 
 EXCEL_BOOK_EXT = [
